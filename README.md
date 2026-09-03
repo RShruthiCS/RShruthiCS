@@ -1,6 +1,6 @@
 ## I am Shruthi Raghavan, a Data science major at San Jose State University. 
 
-Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
