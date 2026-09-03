@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am Shruthi Raghavan, a Data science major at San Jose State University. I have a strong foundation in programming, statistics, and analytical problem-solving. Passionate about uncovering insights from data, I enjoy combining technical skills with curiosity to solve real-world challenges.
+I have taken coursework in programming languages like Java, Python, C++, along with Machine learning, Artificial intelligence and Data visualisation. Outside of academics, I love reading, exploring new places, and trying out different foods.
+I am seeking an internship and full time roles for summer 2027 in the field of Data Science, along with Machine Learning and AI, to apply my skills and gain industry experience.
 
 <!--
 **RShruthiCS/RShruthiCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
