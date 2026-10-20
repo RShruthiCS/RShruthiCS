@@ -1,8 +1,8 @@
 # Hi, I'm Shruthi Raghavan 👋
 
-**Data Science student at San José State University** · turning messy data into clear answers with Python, SQL, and machine learning.
+**Data Science student at San José State University** 
 
-I enjoy building end-to-end projects: cleaning and exploring data, modeling it, and presenting the results in a way that non-technical people can act on. I'm currently looking for **Data Analyst, AI/ML, and SWE internships and full-time roles for Summer 2027**.
+I enjoy building end-to-end projects: cleaning and exploring data, modeling it, and presenting the results in a way that non-technical people can act on. I'm currently looking for **Data, AI/ML, and SWE internships and full-time roles for Summer 2027**.
 
 ---
 
