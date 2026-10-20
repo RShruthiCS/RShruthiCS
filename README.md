@@ -1,6 +1,6 @@
 # Hi, I'm Shruthi Raghavan 👋
 
-**Data Science student at San José State University** 
+**Data Science senior at San José State University, graduating in May 2027** 
 
 I enjoy building end-to-end projects: cleaning and exploring data, modeling it, and presenting the results in a way that non-technical people can act on. I'm currently looking for **Data, AI/ML, and SWE internships and full-time roles for Summer 2027**.
 
