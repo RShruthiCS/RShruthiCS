@@ -2,7 +2,7 @@
 
 **Data Science student at San José State University** · turning messy data into clear answers with Python, SQL, and machine learning.
 
-I enjoy building end-to-end projects: cleaning and exploring data, modeling it, and presenting the results in a way that non-technical people can act on. I'm currently looking for **Data Analyst, AI/ML, and SWE internships and full-time roles for 2027**.
+I enjoy building end-to-end projects: cleaning and exploring data, modeling it, and presenting the results in a way that non-technical people can act on. I'm currently looking for **Data Analyst, AI/ML, and SWE internships and full-time roles for Summer 2027**.
 
 ---
 
@@ -40,7 +40,7 @@ Model Evaluation (precision, recall, F1) · EDA · Applied Statistics
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
 
-LLMs · RAG pipelines · Embeddings (sentence-transformers) · Vector search
+LLMs · RAG pipelines · Embeddings (sentence-transformers) · Vector search JDBC · REST APIs
 
 **🗄️ Databases & Dev Tools**
 <br>
@@ -52,6 +52,7 @@ LLMs · RAG pipelines · Embeddings (sentence-transformers) · Vector search
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 JDBC · REST APIs
+
 ---
 
 ## 🚀 Featured Projects
